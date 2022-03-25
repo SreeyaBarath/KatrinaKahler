@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background:linear-gradient(#11d0f2 0%,#b638d9 100%);
+}
+img {
+    width:175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+.line{
+    height:3px;
+    background-color: black;
+    width:70px;
+    margin: 8px auto;
+}
+.menu{
+    top:10px;
+    right:30px;
+}
+.links:hover{
+    background-color:deeppink;
+
+}
+
+.contact1{
+    background-color:magenta;
+}
